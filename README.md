@@ -2,6 +2,8 @@ Estoy dejando el link explicativo de mi codigo en youtube
 
 https://youtu.be/3Kj_HKjkWm0
 
+Una acotación adicional es que tuve un alerta en el navegador con las "CORS POLICY" por lo que tuve que instalarle un pluggin al navegador por si esque no le abre bien el listado. El pluggin instalado y activado se llama "Moesif Origin & CORS Changer"
+
 
 
 # Getting Started with Create React App
